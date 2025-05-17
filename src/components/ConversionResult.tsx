@@ -5,7 +5,7 @@ import { Button } from '@/components/ui/button';
 import { formatCurrency } from '@/lib/currency-utils';
 import { useToast } from '@/hooks/use-toast';
 import { useState } from 'react';
-import { motion } from 'framer-motion';
+// import { motion } from 'framer-motion';
 
 interface ConversionResultProps {
   fromCurrency: string;

@@ -1,4 +1,4 @@
-import { getCurrencyByCode, getCurrencySymbol } from '@/data/currencies';
+import {  getCurrencySymbol } from '@/data/currencies';
 
 /**
  * Format a currency value according to locale and currency code

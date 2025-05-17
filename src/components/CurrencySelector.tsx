@@ -10,7 +10,7 @@ import {
 } from '@/components/ui/select';
 import { Label } from '@/components/ui/label';
 import { POPULAR_CURRENCIES, ALL_CURRENCIES } from '@/data/currencies';
-import { formatCurrency } from '@/lib/currency-utils';
+// import { formatCurrency } from '@/lib/currency-utils';
 
 interface CurrencySelectorProps {
   value: string;

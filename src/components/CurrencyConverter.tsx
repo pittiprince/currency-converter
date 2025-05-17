@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import CurrencySelector from '@/components/CurrencySelector';
 import CurrencyInput from '@/components/CurrencyInput';
